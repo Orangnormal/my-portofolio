@@ -31,19 +31,15 @@ const Footer = () => {
   const data = [
     {
       logo: FaInstagram,
-      socmed: 'https://www.instagram.com/thatrevv/',
+      socmed: 'https://www.instagram.com/yaskrazz/',
     },
     {
       logo: FaLinkedin,
-      socmed: 'https://www.linkedin.com/in/nareswaramaulana',
-    },
-    {
-      logo: FaDribbble,
-      socmed: 'https://dribbble.com/Revvvz',
+      socmed: 'https://www.linkedin.com/in/yasa-kafi-razzan-189b56260/',
     },
     {
       logo: FaGithub,
-      socmed: 'https://github.com/Nareswara05',
+      socmed: 'https://github.com/YasaKafi',
     },
   ];
 
