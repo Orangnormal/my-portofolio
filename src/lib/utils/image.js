@@ -8,13 +8,14 @@ import birrul from '../Assets/project/birrul.png';
 import ruscareMentor from '../Assets/project/ruscarementor.png';
 import kostku from '../Assets/project/kostku.jpg';
 import snbp from '../Assets/project/snbp.png';
-import techcom from '../Assets/project/techom.jpg';
+import techcom from '../Assets/project/techomfest-mockup.png';
 import ppdb from '../Assets/project/ppdb.png';
 import betteru_landing from '../Assets/project/betteru_landing.png';
 import betteru_app from '../Assets/project/betteru_app.png';
 import bbo from '../Assets/project/bbo.png';
 import nuri from '../Assets/project/nuri.png';
 import fundex from '../Assets/project/fundex.png';
+import tedikap from '../Assets/project/tedikap.png';
 
 
 
@@ -38,5 +39,6 @@ export {
     betteru_app,
     bbo,
     fundex,
+    tedikap
 
 }

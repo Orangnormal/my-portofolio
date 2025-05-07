@@ -66,9 +66,9 @@ const About = () => {
         </div>
       </div>
 
-      <div>
+      {/* <div>
         <WhatIDo />
-      </div>
+      </div> */}
     </div>
   );
 };

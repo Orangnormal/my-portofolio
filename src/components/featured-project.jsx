@@ -13,7 +13,7 @@ const FeaturedProject = () => {
 
     return (
         <div 
-            className='flex flex-col gap-16 justify-center' 
+            className='flex flex-col gap-16 justify-center mt-[500px]' 
             id="project"
         >
             <div 
